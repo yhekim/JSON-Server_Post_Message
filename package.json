@@ -1,0 +1,16 @@
+{
+    "name": "package.json",
+    "version": "1.0.0",
+    "description": "post_server_message",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "json:server": "json-server --watch db.json"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.0",
+        "server": "^1.0.36"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "mesajlar": [
+    {
+      "id": "1",
+      "mesajGonderen": "Clarusway",
+      "mesajIcerik": "Merhaba JSON"
+    },
+    {
+      "mesajGonderen": "test",
+      "mesajIcerik": "test yazısı yazıldı",
+      "id": "OoACZS5"
+    },
+    {
+      "mesajGonderen": "deneme1",
+      "mesajIcerik": "deneme yazısı",
+      "id": "qJ8-GN2"
+    }
+  ]
+}
