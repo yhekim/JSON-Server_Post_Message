@@ -7,11 +7,11 @@
 
 - It is a cinema living room project made in JS. And here the information is saved in Local Storage.
 
-- https://stoic-villani-c0a459.netlify.app/
+- https://happy-fermat-f04317.netlify.app/
 
-- https://yhekim.github.io/Countries-and-Neighbours/
+- https://yhekim.github.io/JSON-Server_Post_Message/
 
-- ![gif](https://raw.githubusercontent.com/yhekim/Countries-and-Neighbours/main/countries%20and%20neighbours.gif)
+- ![gif](https://raw.githubusercontent.com/yhekim/JSON-Server_Post_Message/main/message_app_server_post.gif)
 
 ## Learning Outcomes
 
